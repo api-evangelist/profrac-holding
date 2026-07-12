@@ -13,6 +13,8 @@ created: '2026-05-04'
 modified: '2026-05-04'
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/profrac-holding-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/pf-holdings
   - type: Website
@@ -33,6 +35,8 @@ common:
     url: https://www.pfholdingscorp.com/terms-of-use
   - type: Contact
     url: https://www.pfholdingscorp.com/contact
+  - type: Blog
+    url: https://ir.pfholdingscorp.com/news-events/press-releases
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
