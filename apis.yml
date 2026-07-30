@@ -2,6 +2,17 @@ aid: profrac-holding
 url: https://github.com/api-evangelist/profrac-holding
 name: ProFrac Holding
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.pfholdingscorp.com/favicon.ico
 tags:
   - Oil and Gas
